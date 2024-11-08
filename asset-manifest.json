@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Simple-projects/static/css/main.d221dc40.css",
+    "main.js": "/Simple-projects/static/js/main.85268023.js",
+    "index.html": "/Simple-projects/index.html",
+    "main.d221dc40.css.map": "/Simple-projects/static/css/main.d221dc40.css.map",
+    "main.85268023.js.map": "/Simple-projects/static/js/main.85268023.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.85268023.js"
+  ]
+}
